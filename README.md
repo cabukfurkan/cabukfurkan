@@ -32,7 +32,7 @@
 &nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabukfurkan&show_icons=true&theme=radical)
+<!-- ![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabukfurkan&show_icons=true&theme=radical) -->
 
 <!--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cabukfurkan&layout=compact)](https://github.com/cabukfurkan/) -->
