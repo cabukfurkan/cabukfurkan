@@ -1,6 +1,8 @@
-# Furkan CABUK 👨‍💻 Full Stack Web Developer 👨‍💻
+# Furkan CABUK 👨‍💻
 
-### Hello, everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+## Full Stack Web Developer 👨‍💻
+
+### Hello, everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
 
 ### I am about to graduate from [HackYourFuture](https://www.hackyourfuture.net/program).
 
@@ -14,6 +16,10 @@
 &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 &nbsp;
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,10 +30,9 @@
 &nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<!--
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliDemircix&show_icons=true&theme=radical) -->
+<!-- ![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabukfurkan&show_icons=true&theme=radical) --> -->
 
-<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cabukfurkan&layout=compact)](https://github.com/cabukfurkan/)
 
@@ -44,5 +49,5 @@
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<!--
-![Profile views](https://gpvc.arturio.dev/cabukfurkan) -->
+
+<!-- ![Profile views](https://gpvc.arturio.dev/cabukfurkan) -->
