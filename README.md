@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer 👨‍💻
 
-### Hello, everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+### Hello, everybody! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="2px">
 
 ### I am about to graduate from [HackYourFuture](https://www.hackyourfuture.net/program).
 
