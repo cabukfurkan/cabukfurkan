@@ -33,7 +33,7 @@
 
 ### Please contact me
 
-![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&?url=furkancabuk.ce@gmail.com//left)
+[[!Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](furkancabuk.ce@gmail.com)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
