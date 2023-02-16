@@ -1,6 +1,6 @@
 # Furkan CABUK 👨‍💻
 
-## Full Stack Web Developer 👨‍💻
+## Java Developer 👨‍💻
 
 ### Hello, everybody!
 
